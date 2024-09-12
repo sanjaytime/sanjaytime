@@ -4,6 +4,8 @@
 
 I love building scalable systems and working with data. When I'm not coding, you can find me exploring new technologies or contributing to open-source projects.
 
+Currently I'm devoted to helping kids learn how to read at [Magpie](magpie.org).
+
 🌐 [sanjaytime.github.io](https://sanjaytime.github.io)
 
 ### 🚀 Some Cool Projects
