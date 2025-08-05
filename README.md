@@ -4,7 +4,7 @@
 
 I love building scalable systems and working with data. When I'm not coding, you can find me exploring new technologies or browsing and contributing to open-source projects.
 
-Currently I'm devoted to helping kids learn how to read at [Magpie](https://www.magpie.org/).
+Currently I'm focused on helping kids learn how to read at [Magpie](https://www.magpie.org/).
 
 🌐 [sanjaytime.github.io](https://sanjaytime.github.io)
 
@@ -16,12 +16,12 @@ Currently I'm devoted to helping kids learn how to read at [Magpie](https://www.
 
 ### 💡 What I'm Into
 
+- Cloud-native architecture
+- ML and AI Ops
 - Building efficient data pipelines
-- Cloud-native architectures
 - Open-source contributions
-- Automating all the things!
 
-### 🌱 Always Learning
+### 🌱 Currenly Learning
 
 Currently diving deeper into machine learning ops and distributed systems.
 
