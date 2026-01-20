@@ -1,5 +1,4 @@
-# Hi I'm Sanjay 👋🏾
-
+Hi I'm Sanjay 👋🏾
 I like to build scalable systems and work with data.
 
 ### Work
