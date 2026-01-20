@@ -1,12 +1,12 @@
 # Hi I'm Sanjay 👋🏾
 
-## 👨🏾‍💻 Software Engineer | Data Platform
+I like to build scalable systems and work with data.
 
-I love building scalable systems and working with data.
+### Work
 
-Currently I'm focused on helping kids learn how to read at [Magpie](https://www.magpie.org/).
+Currently focused on helping teachers improving literacy rates at [Magpie](https://www.magpie.org/).
 
-🌐 [sanjaytime.github.io](https://sanjaytime.github.io)
+
 
 ### Projects
 
@@ -14,6 +14,8 @@ Currently I'm focused on helping kids learn how to read at [Magpie](https://www.
 - [YouTube-DL Quickstart](https://github.com/sanjaytime/youtube-dl-quickstart) - Easily download YouTube videos
 - [Basic Data Service](https://github.com/sanjaytime/basic-data-service) - A simple data service template
 
-### Currently Learning
+### Learning
 
-Currently diving deeper into machine learning ops and distributed systems.
+Exploring machine learning ops and distributed systems at the moment.
+
+🌐 [sanjaytime.github.io](https://sanjaytime.github.io)
